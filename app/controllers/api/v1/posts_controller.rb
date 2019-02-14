@@ -6,6 +6,10 @@ module API
 
         render json: { posts: posts }
       end
+
+      def create
+        
+      end
     end
   end
-end 
+end
